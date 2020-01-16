@@ -9,4 +9,8 @@ Angular 8
 
 Java Swing
 
+Mentioned by Black Ethridge. DZone CM
+
+https://medium.com/@growingcommunity/why-do-they-keep-coming-back-real-world-community-members-speak-on-why-the-keep-coming-back-c99ba4f66d1e
+
 
