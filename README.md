@@ -14,3 +14,7 @@ Mentioned by Black Ethridge. DZone CM
 https://medium.com/@growingcommunity/why-do-they-keep-coming-back-real-world-community-members-speak-on-why-the-keep-coming-back-c99ba4f66d1e
 
 
+Mentioned by Rodrigo Grabbing
+
+https://graciano.dev/2020/01/16/weekend-reading-list-2/amp/?__twitter_impression=true
+
